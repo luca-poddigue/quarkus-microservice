@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "projection": "albersUsa",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "US_adm1_26",
+        "name": "Ohio, US.OH",
+        "level1": "Ohio",
+        "level2": "Ohio"
+      },
+      "geometry": {
+        "type": "UnexpectedGeometryType",
+        "coordinates": [
+        ]
+      }
+    }
+  ]
+}
